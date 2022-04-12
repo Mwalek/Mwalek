@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mwalek
+- 👋 Hi, I’m Mwale!
 - 👀 I’m interested in web development and digital marketing.
 - 🌱 I’m currently learning CI/CD.
 - 💞️ I’m looking to collaborate on WP projects and also on my YT channel.
